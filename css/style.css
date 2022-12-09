@@ -1,0 +1,12 @@
+#navbar{
+    overflow-y: scroll;
+    position:absolute ;
+    width:100px;
+    height:100px;
+    float:left;
+}
+
+#main-doc{
+    float: right;
+  
+}
